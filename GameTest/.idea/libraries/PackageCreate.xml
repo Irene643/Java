@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PackageCreate">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PackageCreate/out/artifacts/PackageCreate_jar/PackageCreate.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
