@@ -12,8 +12,10 @@ public class Main {
 
         System.out.println(languages.get("Java"));
 
-        //contains()
-        //put()
+        //other methods used in maps
+        //.contains() .put() .remove() .replace()
+        languages.remove("LISP","Prefer not to say anything");
+        languages.remove("LISP");
         for(String key: languages.keySet()){
             System.out.println(key +" : " +languages.get(key));
         }
