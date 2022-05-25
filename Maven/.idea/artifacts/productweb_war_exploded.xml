@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="productweb war:exploded">
+    <output-path>$PROJECT_DIR$/productweb/target/productweb/WEB-INF/lib</output-path>
+    <root id="root" />
+  </artifact>
+</component>
